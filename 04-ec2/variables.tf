@@ -14,3 +14,7 @@ variable "project_name" {
 variable "environment" {
   default = "dev"
 }
+
+variable "zone_name" {
+  default = "sunil-devops.shop"
+}
